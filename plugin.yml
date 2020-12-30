@@ -1,0 +1,6 @@
+name: AntiDropItem
+version: 1.0.0
+api: 3.12.0
+main: ZoneGameZ\AntiDrop\Main
+author: ZoneGameZ
+website: https://github.com/ZoneGameZ

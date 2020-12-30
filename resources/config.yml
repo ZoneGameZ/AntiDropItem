@@ -1,0 +1,7 @@
+# Settings
+
+# World Name
+Worlds: world
+
+# $map = World Name
+Message: Cannot drop items on world $map
